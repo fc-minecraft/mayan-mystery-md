@@ -19,5 +19,5 @@
 ```
 
 ```package
-mayan-mystery-ts=github:fc-minecraft/mayan-mystery-ts#v0.0.1
+mayan-mystery-ts=github:fc-minecraft/mayan-mystery-ts#v0.0.2
 ```
